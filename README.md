@@ -2,8 +2,8 @@
 
 from the command prompt clone the project
 
-* $git clone https://github.com/techsithgit/react-saga-example.git
-* $cd react-saga-example
-* $npm install
+*
+* $cd redux-saga-up-down
+* $npm install (if you don't have the dependencies installed)
 * $npm start
 
